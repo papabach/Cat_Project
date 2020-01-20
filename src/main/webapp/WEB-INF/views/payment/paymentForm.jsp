@@ -39,7 +39,7 @@ div{
 				<div class="media" style="padding-left:20px;">
 					<img src="resources/foodImg/mainfood1.jpg" style="height:70px;" >
 					<div class="media-body align-self-center" style="margin-left:10px;">
-						[리필 증정] 스포츠펫 캐치미 이프유캔 하하하gngn
+						[리필 증정] 스포츠펫 캐치미 이프유캔
 					</div>	
 				</div>
 					<hr>
